@@ -11,7 +11,7 @@
 - sudo apt-get -y –force-yes install $PACKAGES 
 
 ### Get the code
-- git clone https://github.com/photo_gallery_docker.git
+- git clone https://github.com/lsujh/photo_gallery_docker.git
 
 ### Docker build
 - cd photo_gallery_docker
